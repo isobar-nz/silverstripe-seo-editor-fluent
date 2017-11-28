@@ -1,0 +1,19 @@
+{
+    "name": "littlegiant/silverstripe-seo-editor-fluent",
+    "type": "silverstripe-module",
+    "description": "SEO Editor Administration for SilverStripe using Fluent",
+    "keywords": ["silverstripe", "seo", "editing", "metatitle", "metadescription", "fluent"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stevie Mayhew",
+            "email": "stevie.mayhew@littlegiant.co.nz"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.1",
+        "silverstripe/cms": "~3.1",
+        "tractorcow/silverstripe-fluent": "^3.2",
+        "kinglozzer/metatitle": "~1.0"
+    }
+}
